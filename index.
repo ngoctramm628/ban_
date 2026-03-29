@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Web bán giày</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Banner -->
+    <img src="image/banner.png" class="banner">
+
+    <!-- Tiêu đề -->
+    <h2 class="title">NGẬP TRÀN ƯU ĐÃI VỚI GUSO SNEAKER</h2>
+
+    <!-- Danh mục -->
+    <div class="category">
+        <div class="item">
+            <img src="image/giay1.png">
+            <p>SNEAKER</p>
+        </div>
+
+        <div class="item">
+            <img src="image/giay2.png">
+            <p>GIÀY TÂY</p>
+        </div>
+
+        <div class="item">
+            <img src="image/giay3.png">
+            <p>GIÀY LƯỜI</p>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
